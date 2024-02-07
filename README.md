@@ -3,6 +3,8 @@ i2c Nunchuck controller interface.
 
 WARNING... This is work in progress.
 
+v0.05 is simple data
+v0.07 has graphical lines displayed
 
 However, if you find these routines useful, you could buy me a coffee ;-) 
 
