@@ -5,6 +5,9 @@ WARNING... This is work in progress.
 
 v0.05 is simple data
 v0.07 has graphical lines displayed
+nunchuck_demo_02 splits the dsiplay code and nunchuck.ini
+nunchuck.ini can be used like a library of code you any project.
+Added binary option for joystick so it can be used instead of Consol8 type joystick.
 
 However, if you find these routines useful, you could buy me a coffee ;-) 
 
