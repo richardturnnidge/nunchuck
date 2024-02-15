@@ -6,7 +6,7 @@ WARNING... This is work in progress.
 v0.05 is simple data
 v0.07 has graphical lines displayed
 
-nunchuck_demo_02 splits the dsiplay code and nunchuck.ini
+nunchuck_demo_02 splits the display code and nunchuck.ini
 
 nunchuck.ini can be used like a library of code you any project.
 
