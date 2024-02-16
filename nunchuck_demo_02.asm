@@ -424,15 +424,15 @@ showcursor:
 string:
     .db 22, 8                       ; set mode 8
     .db 23, 0, 192, 0               ; set to non-scaled graphics
-    .db 31, 0,29,"Nunchuck demo v0.02"
-    .db 31, 4,1,"joyX"
-    .db 31, 4,2,"joyY"
-    .db 31, 4,3,"angleX"
-    .db 31, 4,4,"angleY"
-    .db 31, 4,5,"angleZ"
-    .db 31, 4,6,"btnC"
-    .db 31, 4,7,"btnZ"
-    .db 31, 9,8,"joyDigital"
+    .db 31, 0,29,"Nunchuck demo v0.03"
+    .db 31, 4,1,"nunchuck_joyX"
+    .db 31, 4,2,"nunchuck_joyY"
+    .db 31, 4,3,"nunchuck_angleX"
+    .db 31, 4,4,"nunchuck_angleY"
+    .db 31, 4,5,"nunchuck_angleZ"
+    .db 31, 4,6,"nunchuck_btnC"
+    .db 31, 4,7,"nunchuck_btnZ"
+    .db 31, 9,8,"nunchuck_joyD"
 ;    .db 31, 9,9,"byte 5 data"
 
 
